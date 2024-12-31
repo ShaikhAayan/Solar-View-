@@ -5,7 +5,9 @@ I’m thrilled to share SolarView, a visually captivating web-based project that
 🚀Technologies Used:
 
 🌌HTML5 for structure
+
 🌌CSS3 for styling
+
 🌌🚀avaScript for interaction, animations, and orbital calculations
 
 🔗 [[GitHub Repository Link](https://github.com/ShaikhAayan/Solar-View-)]
