@@ -8,10 +8,12 @@ I’m thrilled to share SolarView, a visually captivating web-based project that
 
 🌌CSS3 for styling
 
-🌌🚀avaScript for interaction, animations, and orbital calculations
+🌌🚀JavaScript for interaction, animations, and orbital calculations
 
 🔗 [[GitHub Repository Link](https://github.com/ShaikhAayan/Solar-View-)]
 
-This project was created by Bijay Pandey with inspiration from the wonders of our universe. 🌠🎆
+This project is inspiration from the wonders of our universe. 🌠🎆
+
+
 
 Let’s embark on a journey through the cosmos with SolarView! 🌌🌟 #SolarView #WebDevelopment #Space #Astronomy #Education #Technology #OpenSource
